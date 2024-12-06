@@ -1,12 +1,8 @@
 <?php
 include("header.html")
 ?>
-<form action="action_register.php" method="post">
+<form action="login_action.php" method="post">
     <table class="table2">
-        <tr>
-            <td class="register_table_text"> نام واقعی </td>
-            <td><input type="text" id="realname" name="realname"></td>
-        </tr>
         <tr>
             <td class="register_table_text"> نام کاربری </td>
             <td><input type="text" id="username" name="username"></td>
@@ -14,14 +10,6 @@ include("header.html")
         <tr>
             <td class="register_table_text"> کلمه عبور</td>
             <td><input type="text" id="password" name="password"></td>
-        </tr>
-        <tr>
-            <td class="register_table_text">تکرار کلمه عبور</td>
-            <td><input type="text" id="repassword" name="repassword"></td>
-        </tr>
-        <tr>
-            <td class="register_table_text">ایمیل</td>
-            <td><input type="text" id="email" name="email"></td>
         </tr>
         <tr>
             <td></td>

@@ -9,6 +9,7 @@
 <body>
    <header class="header">  <span>فروشگاه موکت</span> </header> 
    <div class="nav">
+   <div  class="nav_text"> <a href="login.php"> ورود به سایت</a></div>
          <div  class="nav_text"> <a href="register.php">عضویت در سایت</a></div>
          <div  class="nav_text"><a href="nemonekar.php">نمونه کار</a></div>
          <div  class="nav_text"><a href="price_table.php">لیست قیمت</a></div>
