@@ -126,6 +126,10 @@ b{
     margin: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.table2{
-    border-collapse: collapse;
+.imd{
+    width: 50%;
+    margin-right: 280px;
+    height: 600px;
+    margin-top: 25px;
+    border-radius: 20px;
 }
